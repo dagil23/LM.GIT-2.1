@@ -65,12 +65,25 @@ section{
     object-fit: cover;
     width: 200px;
     height: 200px;
+    animation: Expancion;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+  
     
 }
 
- .polaroid:hover {
-    transform: scale(1.1);
+.polaroid:hover {
+    animation-name: Rotacion;
+    animation-duration: 3s;
+    animation-iteration-count:in;
+
 } 
+.oferta_estrella{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    position: static;
+}
 
 figcaption {
    
@@ -87,4 +100,15 @@ footer {
     min-height: 10vh;
     text-align: right;
 
+}
+@keyframes Rotacion{
+    
+    100%{
+        transform: rotateZ(360deg);
+    }
+}
+@keyframes Expancion {
+    50%{
+        transform: scale(0.5);
+    }
 }
