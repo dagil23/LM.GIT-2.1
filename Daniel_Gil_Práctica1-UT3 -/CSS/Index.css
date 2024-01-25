@@ -25,11 +25,17 @@ header {
 
 }
 
+
 .barra_buscador {
     animation-name: Buscador;
     animation-timing-function: ease;
     animation-duration: 5s;
+    width: 200px;
+    transition: width 4s;
 
+}
+.barra_buscador:focus{
+   width:80%;
 
 }
 
@@ -189,14 +195,5 @@ footer {
 
 }
 
-@keyframes Buscador {
 
 
-    100% {
-        transform: width 200px scale(2);
-     
-        
-    }
-
-
-}

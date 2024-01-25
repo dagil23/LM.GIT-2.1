@@ -103,6 +103,13 @@ footer {
 }
 @keyframes Rotacion{
     
+
+    0%{
+        transform: rotateZ(120deg);
+    }
+    50%{
+        transform: rotateZ(200deg);
+    }
     100%{
         transform: rotateZ(360deg);
     }
