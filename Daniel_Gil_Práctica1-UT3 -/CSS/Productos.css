@@ -50,24 +50,22 @@ section{
     border: 10px whitesmoke solid;
     border-bottom: 50px whitesmoke solid;
     border-radius: 12px;
-    transition: transform 0.3s ease-in-out;
     box-shadow:10px 10px 30px rgba(0, 0, 0, 0.8);
      display: inline-block;
      padding: 10px;
      margin: 40px;
      box-shadow: rgba(0, 0, 0, 0.9);
      background-color:#2a2a2a;
-   
+     animation:  ExpancionRotacion 3s ease-in;
+     
      
     } 
-
-.productos {
-    object-fit: cover;
-    width: 200px;
-    height: 200px;
-    animation: Expancion;
-    animation-duration: 3s;
-    animation-timing-function: ease-in-out;
+    
+    .productos {
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+ 
   
     
 }
@@ -79,10 +77,15 @@ section{
 
 } 
 .oferta_estrella{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
-    position: static;
+    position: absolute;
+    height: auto;
+    top: 0px;
+    left: 0px;
+    width: 80px;
+    animation: parpadeo 1s infinite;
 }
 
 figcaption {
@@ -101,21 +104,24 @@ footer {
     text-align: right;
 
 }
-@keyframes Rotacion{
-    
-
-    0%{
-        transform: rotateZ(120deg);
+@keyframes ExpancionRotacion {
+    0% {
+        transform: scale(1) rotateZ(0deg);
     }
-    50%{
-        transform: rotateZ(200deg);
+    25% {
+        transform: scale(1.1) rotateZ(0deg);
     }
-    100%{
-        transform: rotateZ(360deg);
+    50% {
+        transform: scale(1.1) rotateZ(45deg);
+    }
+    100% {
+        transform: scale(1) rotateZ(90deg);
     }
 }
-@keyframes Expancion {
-    50%{
-        transform: scale(0.5);
-    }
+
+
+@keyframes parpadeo {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
 }
