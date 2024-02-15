@@ -1,0 +1,40 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+
+<jugadores>
+<jugador>
+<nombreJugador>Juan Lopez</nombreJugador>
+<nombreEquipo>Real Madrid</nombreEquipo>
+<entrenador>Daniel Gil</entrenador>
+</jugador>
+
+<jugador>
+<nombreJugador>Omar Idrogo</nombreJugador>
+<nombreEquipo>Barcelona</nombreEquipo>
+<entrenador>Fito Mendez</entrenador>
+</jugador>
+
+
+
+<jugador>
+<nombreJugador>Manuel Ramirez</nombreJugador>
+<nombreEquipo>Real Sociedad</nombreEquipo>
+<entrenador>Miguel Hernandez</entrenador>
+</jugador>
+
+
+<jugador>
+<nombreJugador>Maria Victoria</nombreJugador>
+<nombreEquipo>Sevilla</nombreEquipo>
+<entrenador>Luis Sanchez</entrenador>
+</jugador>
+
+<jugador>
+<nombreJugador>Felipe Paez</nombreJugador>
+<nombreEquipo>Girona</nombreEquipo>
+<entrenador>Enrique Dominguez</entrenador>
+</jugador>
+</jugadores>
+
+
+
+
