@@ -1,100 +1,38 @@
 <?xml version ="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Ejercicio3.CSS"?>
 
 
 <album>
-<Informacion>
-<artista>ABC(2)</artista>
-<sello>KARRUSELL INTERNATIONAL</sello>
-<referencia> 551 831-2</referencia>
-<titulo> The Collection </titulo>
+  <Informacion>
+    <columna>
+  </columna>
+  <columna>
+  <categoria>Artista</categoria>
+  <categoria>Sello </categoria>
+  <categoria>referencia </categoria>
+  <categoria> Titulo</categoria>
+  <categoria> Año </categoria>
+  <categoria>Pais</categoria>
+  <categoria>formato </categoria>
+  <categoria>Genero </categoria>
+  <categoria> Estilo</categoria>
+  <categoria> observaciones</categoria>
+  </columna>
 
+    <columna>
+   <dato>ABC(2)</dato>
+   <dato>KARRUSELL INTERNATIONAL</dato>
+   <dato> 551 831-2</dato>
+   <dato> The Collection </dato>
+   <dato>1996 </dato>
+   <dato>Germany </dato>
+   <dato> D-Compilation</dato>
+   <dato>Funk Soul Electronic</dato>
+   <dato>Funk Disco,Synth Pop</dato>
+   <dato>Licensed from Mercury Records (London)</dato>
+  </columna>
+    </Informacion>
+    <cd>
 
-<año>1996</año>
-<pais>Germany</pais>
-<formato>CD-Compilation</formato>
-<genero>Funk Soul Electronic</genero>
-<estilo>Funk Disco,Synth Pop</estilo>
-<observaciones>Licensed from Mercury Records (London)<observaciones>
-</Informacion>
-<cd>
-<01>
-  <nombre></nombre>
-  <duracion></duracion>
-</01>
-
-<02>
-  <nombre></nombre>
-  <duracion></duracion>
-</02>
-
-<03>
-  <nombre></nombre>
-  <duracion></duracion>
-</03>
-
-<04>
-  <nombre></nombre>
-  <duracion></duracion>
-</04>
-
-<05>
-  <nombre></nombre>
-  <duracion></duracion>
-</05>
-
-<06>
-  <nombre></nombre>
-  <duracion></duracion>
-</06>
-
-<07>
-  <nombre></nombre>
-  <duracion></duracion>
-</07>
-
-<08>
-  <nombre></nombre>
-  <duracion></duracion>
-</08>
-
-<09>
-  <nombre></nombre>
-  <duracion></duracion>
-</09>
-
-<10>
-  <nombre></nombre>
-  <duracion></duracion>
-</10>
-
-<11>
-  <nombre></nombre>
-  <duracion></duracion>
-</11>
-
-<12>
-  <nombre></nombre>
-  <duracion></duracion>
-</12>
-
-<13>
-  <nombre></nombre>
-  <duracion></duracion>
-</13>
-
-<14>
-  <nombre></nombre>
-  <duracion></duracion>
-</14>
-
-<15>
-  <nombre></nombre>
-  <duracion></duracion>
-</15>
-
-
-
-
-
-</cd>
-</album>
+    </cd>
+  </album>

@@ -1,0 +1,11 @@
+columna:nth-child(1):first-child{
+    background-image: url(../Daniel_Gil_Practica-UT4/ImagenAlbum.jpg);
+}
+columna{
+    display: flex;
+    flex-direction: column;
+}
+columna:nth-child(2){
+    color: grey;
+    text-align: right;
+}
