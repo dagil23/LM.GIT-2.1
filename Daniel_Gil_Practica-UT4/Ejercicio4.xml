@@ -1,0 +1,15 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Ejercicio4.CSS"?>
+<caratula>
+<actores>
+<nombre>Ewan<apellido>Mcgregor</apellido></nombre>
+<nombre>Albert<apellido>Finney</apellido></nombre>
+<nombre>Billy<apellido>Crudup</apellido></nombre>
+<nombre>Jessica<apellido>Lange</apellido></nombre>
+</actores>
+<productor>Una película de <creador>Tim Burton</creador></productor>
+<eslogan>Una aventura tan grande como la vida misma</eslogan>
+
+
+
+</caratula>
