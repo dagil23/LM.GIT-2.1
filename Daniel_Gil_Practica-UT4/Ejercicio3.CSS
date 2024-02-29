@@ -1,11 +1,54 @@
-columna:nth-child(1):first-child{
-    background-image: url(../Daniel_Gil_Practica-UT4/ImagenAlbum.jpg);
+*{
+    background: black;
+    margin: 0;
+    box-sizing: border-box;
 }
+Informacion{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    
+}
+#imagen{
+    background-image: url(ImagenAlbum.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+}
+
 columna{
     display: flex;
     flex-direction: column;
+    color: white;
 }
 columna:nth-child(2){
     color: grey;
     text-align: right;
+    text-transform: capitalize;
 }
+
+dato:first-child{
+    color: greenyellow
+}
+
+cancion:nth-child(2n){
+    background-color: grey;
+
+}
+cancion:nth-child(even) tiempo {
+    background-color: grey;
+   
+  }
+  
+
+cd{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+tiempo{
+   font-style: italic;
+}
+
+

@@ -4,11 +4,12 @@
 
 <album>
   <Informacion>
-    <columna>
+    <columna id="imagen">
+    
   </columna>
   <columna>
-  <categoria>Artista</categoria>
   <categoria>Sello </categoria>
+  <categoria>Artista</categoria>
   <categoria>referencia </categoria>
   <categoria> Titulo</categoria>
   <categoria> Año </categoria>
@@ -21,18 +22,26 @@
 
     <columna>
    <dato>ABC(2)</dato>
-   <dato>KARRUSELL INTERNATIONAL</dato>
+   <dato>Elvis Presley</dato>
    <dato> 551 831-2</dato>
-   <dato> The Collection </dato>
-   <dato>1996 </dato>
-   <dato>Germany </dato>
+   <dato> Studio Album</dato>
+   <dato>1956 </dato>
+   <dato>USA</dato>
    <dato> D-Compilation</dato>
-   <dato>Funk Soul Electronic</dato>
+   <dato>Rock and roll</dato>
    <dato>Funk Disco,Synth Pop</dato>
    <dato>Licensed from Mercury Records (London)</dato>
   </columna>
     </Informacion>
     <cd>
-
+  <cancion> Blue Suede Shoes<tiempo>[3.23]</tiempo></cancion>
+   <cancion> I'm Counting on You<tiempo>[3.23]</tiempo></cancion>
+    <cancion> I Got a Woman<tiempo>[3.23]</tiempo></cancion>
+     <cancion>One-Sided Love Affair<tiempo>[3.23]</tiempo></cancion>
+      <cancion>I Love You Because<tiempo>[3.23]</tiempo></cancion>
+       <cancion>Just Because<tiempo>[3.23]</tiempo></cancion>
+        <cancion>Tutti Frutti<tiempo>[3.23]</tiempo></cancion>
+         <cancion>Trying to Get to You<tiempo>[3.23]</tiempo></cancion>
+          <cancion>I'll Never Let You Go<tiempo>[3.23]</tiempo></cancion>
     </cd>
   </album>

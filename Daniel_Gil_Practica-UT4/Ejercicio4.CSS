@@ -1,0 +1,60 @@
+
+/* Para que la imagen ocupe toda la pantalla carátula tiene que tener un alto y un ancho (yo le puse 75vh de alto y el ancho lo ajusté a cómo me gustó en mi resolución). Después pones la imagen de fondo con background-image y con background-size: 100% 100% ocupará el tamaño del contenedor. */
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+caratula{
+    background-image: url(bigFish.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100vw;
+    height: 100vh;
+    font-style: oblique;
+    
+    
+
+}
+actores{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    gap: 100px;
+    text-align: center;
+    color: rgb(70, 70, 70);
+}
+nombre{
+    display: flex;
+    flex-direction: column;
+}
+apellido{
+    text-transform: uppercase;
+}
+productor{
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+    font-size: x-large;
+    color: rgb(70, 70, 70);
+
+   
+}
+creador{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+eslogan{
+    margin-top: auto;
+    text-align: center;
+    font-family: "Old English Text MT", sans-serif;
+    color: #A0A031;
+    text-shadow: 1px 1px 2px white;
+    font-size: 32px;
+}
