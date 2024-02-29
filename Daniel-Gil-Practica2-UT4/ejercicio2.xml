@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version = "2.0">
+    <channel>
+<title>El pais.com-Seccion Tecnologia</title>
+<link>http://meloheinventando.fos</link>
+<description>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, maiores vero, quas amet nisi alias nam facere ratione natus sequi dolore ad, id quaerat. Animi est aliquid cupiditate sit eligendi.
+Dolorem omnis accusantium hic inventore, neque nostrum excepturi nihil corrupti alias molestiae ratione autem maiores amet ad animi. Totam officiis quas eveniet illum in quisquam impedit dolorum soluta nam maxime!
+</description>
+<item>
+    <title>Sony empieza a reabir las plataformas asaltadas</title>
+<link>http://example.org/foo.es</link>
+<description>
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, fuga! Id facilis ipsum, minus consequatur voluptate soluta sunt cum voluptatem doloremque reiciendis autem veniam earum rem molestiae unde, quasi officiis.
+    Cumque, ratione obcaecati. Eum corporis tempore eius aliquam aliquid enim quia modi distinctio ipsa quidem consequuntur a reiciendis, sint quasi perferendis doloremque necessitatibus dicta voluptatum vero sapiente eaque voluptate tempora!
+</description>
+</item>
+<item>
+    <title>
+        El codigo detras del tuit 
+    </title>
+    <link>http://exampleInevntando.org/foo.es</link>
+    <description>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam repellendus perspiciatis tempore ducimus minus! Inventore earum quasi sit dignissimos cum hic, facilis expedita officia eius ea. Fugiat cumque voluptates harum!
+        Repudiandae rem aliquid harum facilis minima similique hic cumque pariatur quas eveniet odit optio, odio, iste nobis dolore, repellendus soluta accusamus velit inventore quisquam obcaecati in commodi. Nisi, unde. Autem!
+    </description>
+</item>
+<item>
+    <title>
+        Google maneja el ruido en la  red para ocultar sus problemas
+    </title>
+    <link>http://exampleInevntando.org/foo.es</link>
+    <description>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto sapiente voluptate illo! Quas, consequatur inventore quidem voluptate mollitia, voluptates repellat quis laborum explicabo assumenda perferendis deserunt aperiam atque praesentium illo.
+        Aspernatur iure ea alias, voluptas illum nam sapiente. Exercitationem repellendus pariatur assumenda possimus ipsum, nulla, laborum corporis libero delectus at impedit natus esse nisi voluptatibus, nesciunt voluptate in magni aperiam.
+    </description>
+</item>
+    </channel>
+</rss>

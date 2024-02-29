@@ -1,0 +1,12 @@
+- El título del canal = El pais.com-Seccion Tecnologia
+- Cuántos ítems se muestran en esta imagen = 3
+- Título de cada uno de los ítem
+1:Sony empieza a reabir las plataformas asaltadas
+2: El codigo detras del tuit 
+3: Google maneja el ruido en la  red para ocultar sus problemas
+- Descripción:3
+- Autor de cada ítem
+1: El pais
+2: Rafael Clemente
+3: Adrian Segovia
+- Otra información
