@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Band>
+    <NameBand>The Beatles</NameBand>
+
+    <Awards>
+        <Award>Grammy Award for Best Album</Award>
+    </Awards>
+
+    <Member Bdate="23-03-1943" Plays="1">
+        <NameMenber>John Lennon</NameMenber>
+        <Role> Cantante</Role>
+        <Joined>1967</Joined>
+    </Member>
+
+    <Instrument id="1">Mifrocono</Instrument>
+     <NameBand>The Beatles</NameBand>
+    <History>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium possimus harum nam iure? Cumque placeat qui corporis. Dolore at unde voluptatibus beatae, eveniet suscipit cum. Quisquam neque doloribus perferendis! Sint!</History>
+   
+
+    <Member Bdate="23-03-1943" Plays="1">
+        <NameMenber>John Lennonr</NameMenber>
+        <Role> Cantante</Role>
+        <Joined>1967</Joined>
+    </Member>
+
+    <Instrument id="1">Microfono</Instrument>
+</Band>

@@ -1,0 +1,18 @@
+<?xml version = "1.0"?>
+<!DOCTYPE rss SYSTEM "Ejercicio3">
+<!ELEMENT rss (channel)>
+<!ATTLIST rss version CDATA(0.91|1.0|2.0) #REQUIRED>
+<!ELEMENT channel (title,link,description,lenguage,image,url,width,height,item+,description)>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title CDATA #REQUIRED>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT  lenguage (#PCDATA)>
+<!ELEMENT image (title,url,link,width,height)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT item (title,link,description)>
+<!ELEMENT description (#PCDATA)>
+
+

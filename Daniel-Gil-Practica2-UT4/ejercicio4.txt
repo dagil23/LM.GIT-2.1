@@ -1,0 +1,13 @@
+a.
+1.<ELEMENT numeros (CDATA)> es incorrecto
+y deberia ser (#PCDATA) 
+2.No puedes meter etiquetas XML, dentro de un documento XML
+parece ser que en la imagen se esta intento eso
+3.Tendriamos que poner una etiqueta numero, que encerrara a el numero
+
+B.
+1.El documento XML no tiene una etiqueta raiz de
+cierre
+2.Cuando se declara el <ELEMENT de la etiqueta ligadeFutbol >La etiqueta ligaDeFutbol esta vacia y no contiene nada.
+3.En la declaracion del <ELEMENT de la etiqueta visitante> se esta 
+intentando introducir los atributos cuando deberia ser en el ATTLIST
